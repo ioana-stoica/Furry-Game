@@ -3,23 +3,13 @@ $(document).ready(function () {
     console.log("hello");
 // CONSTRUCTORS
 // FURRY CONSTRUCTOR
+ const Furry = require('./furry');
+ const Coin = require('./coin');
 
-    class Furry {
-        constructor(x, y, direction) {
-            this.x = 0;
-            this.y = 0;
-            this.direction = 'right';
-        }
-    }
 
 // COIN CONSTRUCTOR
 
-    class Coin {
-        constructor(x, y) {
-            this.x = Math.floor(Math.random() * 10);
-            this.y = Math.floor(Math.random() * 10);
-        }
-    }
+
 
 //GAME CONSTRUCTOR
 
