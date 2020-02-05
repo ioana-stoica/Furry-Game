@@ -13,8 +13,7 @@ Also, at any time during the game, the player can see how many coins he has coll
 
 ## Play Furry Game here:
 
-https://ioana-stoica.github.io/furry-game/index.html
-
+https://ioana-stoica.github.io/Furry-Game/
 
 
 
