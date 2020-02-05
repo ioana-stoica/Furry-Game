@@ -11,6 +11,10 @@ If the player hits a wall, the game ends: the board disappears and a "Game over"
 
 Also, at any time during the game, the player can see how many coins he has collected.
 
+## Play Furry Game here:
+
+https://ioana-stoica.github.io/furry-game/index.html
+
 
 
 
